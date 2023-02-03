@@ -15,6 +15,7 @@ Quality issues<br>
 Transactions dataset<br>
 1.Some columns have recorded NULL values: online_order, brand, product_line, product_class_product_size, standard_cost and product_first_sold_date.<br>
 2.Irrelevant columns to my analysis: online_order, product_first_sold_date.<br>
+
 Customeraddress dataset<br>
 1. Some states are recorded as Victoria, Newsouthwales instead of VIC and NSW respectively.<br>
 
